@@ -1,4 +1,4 @@
-# BeerFilter
+# BeerFilter   https://tejaskarde21.github.io/BeerFilter/Beer%20Product/index.html
 
 Page Slider and Data Fetching:
 updatePageSlider(): Updates a slider element for page navigation.
